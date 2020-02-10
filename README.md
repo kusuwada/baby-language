@@ -25,7 +25,7 @@ I'M HUNGRY!
 ```
 
 OK! We got it! Hooray🙌  
-If you want to speak baby language, you can transrate like this.
+If you want to speak baby language, you can translate like this.
 
 ```
 $ python baby.py 
@@ -66,4 +66,4 @@ $ ./exec_test.sh
 
 ## Limitation
 
-* If there are some invalid input charactors, the output becomes like `googaga*invalid_char*ga googagoo`.
+* If there are some invalid input characters, the output becomes like `googaga*invalid_char*ga googagoo`.
